@@ -7,5 +7,5 @@ For a past 4 years, I have been into web industry developing cool web applicatio
 - Built awesome & powerful application using NodeJs, MySQL, NoSQL ( MongoDB ), WordPress, React ( with Hooks ), Angular, HTML, CSS, SASS, Redux.
 - Can work with multiple languages like JavaScript, PHP, TypeScript, Java & C++ ( only for competitive programming ).
 - Fan of DevOps tools like Git, GitHub Actions, SSH. Love automations & has experience with AWS.
-- Led projects & junior developers as well currently leading one of the most active technology community in Nepal ( [Ask Buddie](https://facebook.com/groups/askbuddie) ).
+- Led projects & junior developers as well currently leading one of the most active technology community in Nepal ( [Ask Buddie Community](https://facebook.com/groups/askbuddie) ).
 - Contributed on top platforms like [WordPress](http://wordpress.org/) & [DefinitelyTyped](https://definitelytyped.org/).
