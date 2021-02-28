@@ -1,11 +1,11 @@
 # Namaste :pray:
 
-I am Ashish Yadav, Co-Founder of [Ask Buddie](https://github.com/askbuddie) & a full-stack engineer at [Whitehat Agency](https://whitehatagency.com.au). I am very passionated about writing code and spend most of my time ( apart from working hours ) to write open-source projects & encourage my connections to contribute on open-source.
+I'm Ashish Yadav, Co-Founder of [Ask Buddie](https://github.com/askbuddie) & a software engineer specialise in efficient web application development. I am working as a full-stack engineer at [Whitehat Agency](https://whitehatagency.com.au) Where I was able to:
 
-For a past 4 years, I have been into web industry developing cool web application with modern technologies.
+- Improve advance Salesforce routes for Innovation award winning financial service of Australia.
+- Design & Develop scalable web application in MERN & LAMP stack.
+- Create automation for development workflows, Reduce time & cost of company by 50%.
+- Analyse security issues & implement security best practices, take class on security for colleagues.
+- Discuss solution & estimate the project, guide interns and teach new technologies.
 
--   Built awesome & powerful application using NodeJs, MySQL, NoSQL ( MongoDB ), WordPress, React ( with Hooks ), Angular, HTML, CSS, SASS, Redux.
--   Can work with multiple languages like JavaScript, PHP, TypeScript, Java & C++ ( only for competitive programming ).
--   Fan of DevOps tools like Git, GitHub Actions, SSH. Love automations & has experience with AWS.
--   Led projects & junior developers as well currently leading one of the most active technology community in Nepal ( [Ask Buddie Community](https://facebook.com/groups/askbuddie) ).
--   Contributed on top platforms like [WordPress](http://wordpress.org/) & [DefinitelyTyped](https://definitelytyped.org/).
+Apart from the professional life, I manage & lead a technology community to guide people, try to contribute on open source projects.
