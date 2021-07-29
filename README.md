@@ -1,11 +1,5 @@
 # Namaste :pray:
 
-I'm Ashish Yadav, Co-Founder of [Ask Buddie](https://github.com/askbuddie) & a software engineer specialise in efficient web application development. I am working as a full-stack engineer at [Whitehat Agency](https://whitehatagency.com.au) where I was able to:
+I'm Ashish Yadav, co-founder of [Ask Buddie](https://github.com/askbuddie) & a passionate software engineer specializing in an excellent software development that matters. Currently, I am working as a Software development engineer at [Lendis](https://lendis.io/) based on Berlin with the responsibility to revolutionize the way to work.
 
-- Improve advance Salesforce routes for Innovation award winning financial service of Australia.
-- Design & Develop scalable web application in MERN & LAMP stack.
-- Create automation for development workflows, Reduce time & cost of company by 50%.
-- Analyse security issues & implement security best practices, take class on security for colleagues.
-- Discuss solution & estimate the project, guide interns and teach new technologies.
-
-Apart from the professional life, I manage & lead a technology community to guide people & contribute on open source projects.
+With an additional interest to improve the technology community & write open source software, you will find me active on tech communities, encouraging people on open source as well as writing open source projects.
